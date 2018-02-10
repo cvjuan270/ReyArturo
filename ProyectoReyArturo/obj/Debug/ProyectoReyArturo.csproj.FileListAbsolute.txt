@@ -1,0 +1,15 @@
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\bin\Debug\ProyectoReyArturo.exe.config
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\bin\Debug\ProyectoReyArturo.exe
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\bin\Debug\ProyectoReyArturo.pdb
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.PaginaPrincipal.resources
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.Properties.Resources.resources
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.csproj.GenerateResource.Cache
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.exe
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.pdb
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.MenuPrincipal.resources
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.csprojResolveAssemblyReference.cache
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.DatMaeUsuario.resources
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\bin\Debug\ProyectoReyArturo.exe.manifest
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\bin\Debug\ProyectoReyArturo.application
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.exe.manifest
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\ProyectoReyArturo\obj\Debug\ProyectoReyArturo.application

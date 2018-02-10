@@ -1,0 +1,15 @@
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\bin\Debug\Login.exe.config
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\bin\Debug\Login.exe
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\bin\Debug\Login.pdb
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\MainWindow.baml
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\UserControl1.baml
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\MainWindow.g.cs
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\UserControl1.g.cs
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\App.g.cs
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\Login_MarkupCompile.cache
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\Login.g.resources
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\Login.Properties.Resources.resources
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\Login.exe
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\Login.pdb
+D:\C#\RepProyectoReyArturo\ReyArturo\DEMOS\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache

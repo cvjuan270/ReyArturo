@@ -1,1 +1,13 @@
 D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\bin\Debug\ReyArturoWPF.exe.config
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\bin\Debug\ReyArturoWPF.exe
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\bin\Debug\ReyArturoWPF.pdb
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\ReyArturoWPF.csprojResolveAssemblyReference.cache
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\MainWindow.baml
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\MainWindow.g.cs
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\App.g.cs
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\ReyArturoWPF_MarkupCompile.cache
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\ReyArturoWPF.g.resources
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\ReyArturoWPF.Properties.Resources.resources
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\ReyArturoWPF.csproj.GenerateResource.Cache
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\ReyArturoWPF.exe
+D:\C#\RepProyectoReyArturo\ReyArturo\ReyArturoWPF\obj\Debug\ReyArturoWPF.pdb
